@@ -7,6 +7,7 @@ and [warp](https://github.com/FMotalleb/warp) to forward the port
 
 ## How to run
 
+0. build this container on your own machine
 1. set your ovpn username and password in vpn/vpn.auth file
 2. update contents of vpn/vpn.conf with your own .ovpn file
 3. use the run command below to open a port to server only visible to the ovpn client
